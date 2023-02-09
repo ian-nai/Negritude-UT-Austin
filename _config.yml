@@ -23,7 +23,7 @@ email: iangoodale@utexas.edu
 
 # Build settings
 url: "https://ian-nai.github.io"
-baseurl: "/Negritude-UT-Austin"
+#baseurl: "/Negritude-UT-Austin"
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
