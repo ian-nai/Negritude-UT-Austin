@@ -22,6 +22,8 @@ title: The Négritude Movement
 email: iangoodale@utexas.edu
 
 # Build settings
+url: ""
+baseurl: "/Negritude-UT-Austin"
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
